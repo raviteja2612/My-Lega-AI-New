@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "title": "My Legal AI - AI-Powered Legal Assistance",
+    "description": "Transform your legal journey with AI-powered insights, document automation, and expert guidance."
+  },
+  "nav": {
+    "logo": "My Legal, AI",
+    "home": "Home",
+    "personal": "Personal",
+    "lawyers": "Lawyers",
+    "features": "Features",
+    "about": "About",
+    "pricing": "Pricing",
+    "signIn": "Sign in"
+  },
+  "hero": {
+    "title": "Where AI Meets",
+    "subtitle": "Your Legal Strategy",
+    "description": "Transform your legal journey with AI-powered insights, document automation, and expert guidance.",
+    "searchPlaceholder": "Type your legal question here...",
+    "assistantIntro": "Hi there, my name is Justice and I'm your legal assistant.",
+    "assistantDescription": "You can ask me questions, describe your situation, or get help understanding your options."
+  },
+  "options": {
+    "individual": {
+      "title": "I Need Legal Help",
+      "description": "Get AI-powered legal guidance, document review, and connect with attorneys.",
+      "button": "Get Started",
+      "features": ["Instant case analysis", "Document review assistance", "Attorney matching service"]
+    },
+    "professional": {
+      "title": "I'm a Legal Professional",
+      "description": "Access powerful tools for case research, document automation, and client management.",
+      "button": "Join Platform",
+      "features": ["AI-powered legal research", "Smart document automation", "Practice management suite"]
+    }
+  },
+  "features": {
+    "title": "Powerful Features for Everyone",
+    "subtitle": "Comprehensive tools to help you navigate your legal journey with confidence.",
+    "individuals": {
+      "title": "For Individuals Seeking Legal Help",
+      "cards": [
+        {
+          "title": "AI Case Review",
+          "description": "Get instant analysis of your legal situation with our AI system. Understand key issues and potential violations in plain English."
+        },
+        {
+          "title": "Outcome Prediction",
+          "description": "Understand your chances of success with our predictive analysis, including win/settle probability estimates based on similar cases."
+        },
+        {
+          "title": "Attorney Matching",
+          "description": "Get matched with the right legal professional based on your case type, budget, and location."
+        },
+        {
+          "title": "Self-Rep Guidance",
+          "description": "Receive personalized advice on whether to self-represent or hire counsel, with step-by-step guidance for small claims cases."
+        },
+        {
+          "title": "Evidence Management",
+          "description": "Get customized evidence checklists, document review, and strategic recommendations for strengthening your case."
+        },
+        {
+          "title": "Defense Strategies",
+          "description": "Access AI-generated defense recommendations and legal strategies tailored to your specific situation."
+        }
+      ]
+    },
+    "professionals": {
+      "title": "For Legal Professionals",
+      "cards": [
+        {
+          "title": "Smart Practice Dashboard",
+          "description": "Centralized view of your cases, client intakes, and practice metrics with intelligent insights and quick actions."
+        },
+        {
+          "title": "AI Case Law Research",
+          "description": "Advanced legal research with AI-powered case analysis, precedent finding, and automated brief generation."
+        },
+        {
+          "title": "Document Automation",
+          "description": "Generate professional legal documents with smart templates, automated filling, and customizable workflows."
+        },
+        {
+          "title": "Client Intake & Management",
+          "description": "Streamline client onboarding with AI-powered intake forms, risk assessment, and case evaluation tools."
+        },
+        {
+          "title": "Evidence Analysis",
+          "description": "Evaluate evidence strength, generate admissibility reports, and receive strategic recommendations."
+        },
+        {
+          "title": "Defense Strategy AI",
+          "description": "Generate comprehensive defense strategies with AI-powered analysis of case law and evidence."
+        },
+        {
+          "title": "Practice Integrations",
+          "description": "Seamlessly connect with popular legal software like Clio, Outlook, and document management systems."
+        },
+        {
+          "title": "Workflow Automation",
+          "description": "Automate routine tasks, set up custom workflows, and track case progress with intelligent pipelines."
+        },
+        {
+          "title": "Case Management",
+          "description": "Comprehensive case tracking with deadlines, document organization, and automated status updates."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Legal Practice?",
+    "subtitle": "Join thousands of legal professionals already using our platform",
+    "button": "Get Started Now"
+  },
+  "footer": {
+    "platform": {
+      "title": "PLATFORM",
+      "links": ["Features", "Pricing", "Security"]
+    },
+    "support": {
+      "title": "SUPPORT",
+      "links": ["Documentation", "Help Center", "Contact"]
+    },
+    "legal": {
+      "title": "LEGAL",
+      "links": ["Privacy", "Terms", "Cookie Policy"]
+    },
+    "company": {
+      "title": "COMPANY",
+      "links": ["About", "Blog", "Careers"]
+    },
+    "copyright": "© 2023 My Legal, AI. All rights reserved.",
+    "disclaimer": "Disclaimer: Not legal advice. Regardless of information provided you should consult an attorney regarding your legal issues before making legal decisions."
+  }
+}
